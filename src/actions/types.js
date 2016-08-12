@@ -1,0 +1,1 @@
+export const FETCHED_ARTICLE = 'FETCHED_ARTICLE';
